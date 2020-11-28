@@ -1,5 +1,5 @@
 # codefundoo++
-This repository desccribes the idea and implementation of using blockchain in elecions to make it more secure,transparent and reliable.
+This repository describes the idea and implementation of using blockchain in elecions to make it more secure,transparent and reliable.
 
 
 # Our main idea of using blockchain for e-voting is as follows:
